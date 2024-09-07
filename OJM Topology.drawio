@@ -106,7 +106,7 @@
         <mxCell id="WpuHXs3pPb45Z80lP11V-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-35">
           <mxGeometry width="86" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WpuHXs3pPb45Z80lP11V-37" value="Max Limit 50M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-36">
+        <mxCell id="WpuHXs3pPb45Z80lP11V-37" value="Max Limit 20M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-36">
           <mxGeometry width="86" height="33" as="geometry">
             <mxRectangle width="86" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -114,7 +114,7 @@
         <mxCell id="WpuHXs3pPb45Z80lP11V-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-35">
           <mxGeometry y="33" width="86" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WpuHXs3pPb45Z80lP11V-39" value="Limit at 20M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-38">
+        <mxCell id="WpuHXs3pPb45Z80lP11V-39" value="Limit at 10M" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="WpuHXs3pPb45Z80lP11V-38">
           <mxGeometry width="86" height="33" as="geometry">
             <mxRectangle width="86" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -129,7 +129,7 @@
           <mxGeometry x="369.99999999999994" y="166" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpuHXs3pPb45Z80lP11V-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186" y="179" width="60" height="30" as="geometry" />
+          <mxGeometry x="187" y="161" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
