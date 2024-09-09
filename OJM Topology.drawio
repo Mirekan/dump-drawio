@@ -92,7 +92,7 @@
           <mxGeometry x="403.75" y="145" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="70ErV9Hw8kWbtCqYgZwJ-78" value="ROUTER - GATEWAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="302" y="190" width="122.75" height="30" as="geometry" />
+          <mxGeometry x="296.25" y="190" width="122.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
